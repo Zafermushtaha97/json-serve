@@ -71,10 +71,6 @@
       "image": "https://images.pexels.com/photos/934062/pexels-photo-934062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
     
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
   ]
  
 }
